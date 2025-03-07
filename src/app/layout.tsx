@@ -16,8 +16,8 @@ const geistMono = Geist_Mono({
 });
 
 export const metadata: Metadata = {
-    title: "Чёрный квавдрат xудожника Малевича К.С.",
-    description: "Чёрный квавдрат xудожника Малевича К.С.",
+    title: "Чёрный квадрат xудожника Малевича К.С.",
+    description: "Чёрный квадрат xудожника Малевича К.С.",
 };
 
 export default function RootLayout({
